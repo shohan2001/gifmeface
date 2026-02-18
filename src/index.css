@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-giphy-dark: #121212;
+  --color-giphy-card: #1e1e1e;
+  --color-giphy-purple: #6157ff;
+  --color-giphy-blue: #00ccff;
+  --color-giphy-pink: #9933ff;
+  --color-giphy-gradient-from: #6157ff;
+  --color-giphy-gradient-to: #9933ff;
+}
+
+body {
+  background-color: var(--color-giphy-dark);
+  color: white;
+}

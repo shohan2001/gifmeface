@@ -1,0 +1,9 @@
+{
+  "name": "GifMeFace",
+  "description": "Create hilarious face-swap GIFs and memes with AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
